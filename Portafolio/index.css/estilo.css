@@ -1,0 +1,29 @@
+header{
+     background-color: rgb(190, 245, 245);
+}
+h5{
+     color: aliceblue;
+     overflow: hidden;
+     text-align: center;
+     text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(162, 252, 252);
+    display: flex;
+    width: auto;
+    height: 100px;
+    justify-content: space-around
+   
+}
+
+ul{
+     list-style: none;
+}
+
+h1{
+     
+}
